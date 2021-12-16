@@ -1,0 +1,15 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 500;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#add{
+   float: right;
+}
+
+#add2{
+   margin-top: 25%;
+}
