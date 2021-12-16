@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.co{
+    background-color: wheat;
+}
+header{
+    height: 150px;
+    background-color: white;
+
+}
+.col-2 {
+    width: auto;
+    float: left;
+    padding-left: 0%;
+
+}
+header img{
+    width: 200px;
+    position: absolute;
+    right: 32.5px;
+    top: 32.5px;
+
+}
+.col-3{
+    float: left;
+    width: 50%;
+}
+#showcase-container{
+    padding-top: 0px;
+    background-color: wheat;
+    width: 100%;
+    height: auto;
+    clear: both;
+}
+.showcase{
+    width: 100%;
+    margin: auto;
+    background-color: wheat;
+}
+
+.social{
+    
+        padding: 25px 0;
+    background-color: brown;
+    width: 25%;
+    height: auto;
+    float: left;
+   
+    
+}
+.red-panda img {
+    display: block;
+    max-width: 100%;
+  }
+
+
